@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "cmath": "cpp",
+        "row_with_maximum_1’s": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
