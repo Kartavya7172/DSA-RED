@@ -1,0 +1,12 @@
+# Ignore executable files
+*.exe
+
+# Ignore VS Code temporary files
+tempCodeRunnerFile.cpp
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore debug files
+*.pdb
