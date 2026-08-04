@@ -25,7 +25,7 @@ public:
             return NULL;
 
         Node* it = head;
-        Node* tail = head;
+        Node* tail = head;  
 
         while (it != NULL) {
 
